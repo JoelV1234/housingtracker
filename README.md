@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Housing Tracker 🏠
 
-## Getting Started
+**Empowering local residents to track and shape municipal housing policy.**
 
-First, run the development server:
+Housing Tracker is a community-driven platform designed to bring transparency and accountability to local housing decisions. We provide residents with the tools and information they need to understand candidate positions, follow lobbying interests, and stay informed about activism and events that shape their neighborhoods.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **🗳️ Candidate Profiles:** In-depth information on local election candidates, their official housing platforms, and promised policies.
+- **💰 Money in Politics:** Track potential donors and lobbying interests to understand who is influencing housing policy.
+- **📈 Proven Track Records:** Evaluate incumbent performance with data-driven insights into their past housing decisions and voting history.
+- **💬 Community Discourse:** Follow and participate in discussions to see what your neighbors are saying about local developments.
+- **📢 Activism & Events:** Stay updated on campaigns, protests, town halls, and other events related to housing policy in your area.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Prerequisites
 
-## Learn More
+- Node.js 18.x or later
+- npm, yarn, or pnpm
 
-To learn more about Next.js, take a look at the following resources:
+### Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/housingtracker.git
+   cd housingtracker
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Technology Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Icons:** [Lucide React](https://lucide.dev/) (Recommended)
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you are a developer, designer, researcher, or concerned citizen, there are many ways to help:
+
+1. **Reporting Issues:** Use GitHub Issues to report bugs or suggest features.
+2. **Data Contribution:** Help us collect and verify information about candidates and policies.
+3. **Pull Requests:** Check out our open issues and submit your improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Together, we can build a more equitable and transparent housing future.*
