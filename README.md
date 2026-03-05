@@ -12,7 +12,20 @@ Housing Tracker is a community-driven platform designed to bring transparency an
 - **💬 Community Discourse:** Follow and participate in discussions to see what your neighbors are saying about local developments.
 - **📢 Activism & Events:** Stay updated on campaigns, protests, town halls, and other events related to housing policy in your area.
 
-## 🚀 Getting Started
+## 🛠️ Technology Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Icons:** [Lucide React](https://lucide.dev/) (Recommended)
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you are a developer, designer, researcher, or concerned citizen, there are many ways to help:
+
+1. **Reporting Issues:** Use GitHub Issues to report bugs or suggest features.
+2. **Data Contribution:** Help us collect and verify information about candidates and policies.
+3. **Pull Requests:** Check out our open issues and submit your improvements.
 
 ### Prerequisites
 
@@ -39,20 +52,7 @@ Housing Tracker is a community-driven platform designed to bring transparency an
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
 
-## 🛠️ Technology Stack
 
-- **Framework:** [Next.js](https://nextjs.org/) (App Router)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Icons:** [Lucide React](https://lucide.dev/) (Recommended)
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Whether you are a developer, designer, researcher, or concerned citizen, there are many ways to help:
-
-1. **Reporting Issues:** Use GitHub Issues to report bugs or suggest features.
-2. **Data Contribution:** Help us collect and verify information about candidates and policies.
-3. **Pull Requests:** Check out our open issues and submit your improvements.
 
 ## 📄 License
 
