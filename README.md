@@ -2,7 +2,7 @@
 
 **Empowering local residents to track and shape municipal housing policy.**
 
-Housing Tracker is a community-driven platform designed to bring transparency and accountability to local housing decisions. We provide residents with the tools and information they need to understand candidate positions, follow lobbying interests, and stay informed about activism and events that shape their neighborhoods.
+Housing Tracker is a Canadian community-driven platform designed to bring transparency and accountability to local housing decisions. We provide residents with the tools and information they need to understand candidate positions, follow lobbying interests, and stay informed about activism and events that shape their neighborhoods.
 
 ## 🌟 Key Features
 
